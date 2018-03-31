@@ -1,0 +1,2 @@
+# Mybatis的公用mapper自动构建工具
+generatorConfig.xml中设置便可
